@@ -1,5 +1,5 @@
+# Jogo de Damas Divangamene
 import pygame
-
 import sys
 
 import copy
@@ -28,7 +28,7 @@ TAMANHO = 600 // DIMENSAO
 
 janela = pygame.display.set_mode((LARGURA, ALTURA))
 
-pygame.display.set_caption("Damas Portuguesas")
+pygame.display.set_caption("Jogo de Damas Portuguesas")
 
  
 
